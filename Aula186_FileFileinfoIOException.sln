@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula186_FileFileinfoIOException", "Aula186_FileFileinfoIOException\Aula186_FileFileinfoIOException.csproj", "{A6180CA4-D70B-45C7-9BE8-75CA1DA98A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6180CA4-D70B-45C7-9BE8-75CA1DA98A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6180CA4-D70B-45C7-9BE8-75CA1DA98A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6180CA4-D70B-45C7-9BE8-75CA1DA98A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6180CA4-D70B-45C7-9BE8-75CA1DA98A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00C27A2A-A691-4952-B8CC-07AD0CB4ED37}
+	EndGlobalSection
+EndGlobal
